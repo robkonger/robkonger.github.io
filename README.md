@@ -1,17 +1,15 @@
 ## ABOUT
 I'm Rob, a technical writer recently graduated with an M.S. in Professional & Technical Writing from Towson University. 
-(Add another line for things I like to do!) 
 
 ## PROFESSIONAL PORTFOLIO
-Read through my resume. 
+[Read through my resume.](https://docs.google.com/document/d/12qdSz7H2plLwtu5nJDBgXyhL4bZEzso6PJIqKN0xFbo/edit?usp=sharing)
 - Technical Documentation Document Sample (DITA Paper. Explanation & Link)
-- GIVE Work (Metadata Documentation?) 
+- G.I.V.E. Work. Metadata. 
 
 ## ACADEMIC PORTFOLIO
-Read through my cirriculum vitae. 
-- Intro. to Tech Writing Course (link)
-- Composition Course (link)
+[Read through my cirriculum vitae.](https://docs.google.com/document/d/1Tdf_2pXf9BJ6mJ6U9IFjx2xkWc_RomtEnfxFiStbszA/edit?usp=sharing)
+- Intro. to Tech Writing Course
 
 ## CONTACT
-Email link.
-LinkedIn. 
+[Email](mailto:rob.konger@gmail.com)  
+[Connect on LinkedIn](https://www.linkedin.com/in/robin-konger/)
