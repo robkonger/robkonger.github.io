@@ -28,10 +28,11 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+    text-transform:uppercase;
 }
 
 h2 {
-  color:#2596be;
+  color:#ef6923;
 }
 
 h3, h4, h5, h6 {
@@ -40,7 +41,9 @@ h3, h4, h5, h6 {
 
 a {
   color:#267CB9;
-  text-decoration:none;
+  text-decoration:underline;
+  text-transform:uppercase;
+  
 }
 
 a:hover, a:focus {
