@@ -10,7 +10,7 @@ Experience in technical writing and editing, communication and management betwee
 
 ## ACADEMIC PORTFOLIO
 [Read through my cirriculum vitae](https://docs.google.com/document/d/1Tdf_2pXf9BJ6mJ6U9IFjx2xkWc_RomtEnfxFiStbszA/edit?usp=sharing)   
-Materials linked below include my teaching philosophy, course syllabus, and a mini-lesson sample. 
+Materials linked below include course syllabus, my teaching philosophy, and a mini-lesson sample. 
 - [INTRO. TO TECHNICAL WRITING](https://docs.google.com/document/d/1gevBqqa8ZxzYr611rm1FH_qCLOaJ9mzMYlsy-y2UawA/edit?usp=sharing): Students learn the concepts of audience analysis and document design in technical writing. 
 - [COLLEGE COMPOSITION](https://docs.google.com/document/d/1uuCVf06BrFCk6CvzY5k27nGAlT1HmSsPjBMowIj_KFM/edit?usp=sharing): Students learn the core academic writing skills, such as research and information structure. 
 
