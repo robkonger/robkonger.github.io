@@ -9,8 +9,8 @@ I'm Rob, a technical writer who recently graduated with an M.S. in Professional 
 
 ## ACADEMIC PORTFOLIO
 [Read through my cirriculum vitae](https://docs.google.com/document/d/1Tdf_2pXf9BJ6mJ6U9IFjx2xkWc_RomtEnfxFiStbszA/edit?usp=sharing)
-- [INTRO. TO TECHNICAL WRITING](): Students learn the concepts of audience analysis and document design in technical writing. Materials include my teaching philosophy, syllabus, and a mini-lesson. 
-- [COLLEGE COMPOSITION](): Students learn the core academic writing skills, such as research and information structure. Materials include my teaching philosophy, syllabus, and a mini-lesson. 
+- [INTRO. TO TECHNICAL WRITING](https://docs.google.com/document/d/1gevBqqa8ZxzYr611rm1FH_qCLOaJ9mzMYlsy-y2UawA/edit?usp=sharing): Students learn the concepts of audience analysis and document design in technical writing. Materials include my teaching philosophy, syllabus, and a mini-lesson. 
+- [COLLEGE COMPOSITION](https://docs.google.com/document/d/1uuCVf06BrFCk6CvzY5k27nGAlT1HmSsPjBMowIj_KFM/edit?usp=sharing): Students learn the core academic writing skills, such as research and information structure. Materials include my teaching philosophy, syllabus, and a mini-lesson. 
 
 ## CONTACT
 [<img width="20" height="20" alt="emailicon" src="https://github.com/user-attachments/assets/ef5389a6-5db5-4c86-8d1c-0cd373f06560" />
