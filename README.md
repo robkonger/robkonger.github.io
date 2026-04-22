@@ -4,8 +4,7 @@ I'm Rob, a technical writer who recently graduated with an M.S. in Professional 
 ## PROFESSIONAL PORTFOLIO
 [Read through my resume](https://docs.google.com/document/d/12qdSz7H2plLwtu5nJDBgXyhL4bZEzso6PJIqKN0xFbo/edit?usp=sharing)
 - [DITA & API DOCUMENTATION COMPARISON REPORT](): I analyzed the "Pet Store" REST API in these two formats, and broke down how each operates.
-- DOCUMENT DESIGN: I’ve designed various professional documents for the Professional Writing Graduate department at Towson University.
-  <img width="515" height="669" alt="NewsletterExample1" src="https://github.com/user-attachments/assets/25cf4e25-4e50-483f-9688-078f10b81bb3" />
+- DOCUMENT DESIGN: I’ve designed various professional documents for the Professional Writing Graduate department at Towson University. <img width="515" height="669" alt="NewsletterExample1" src="https://github.com/user-attachments/assets/25cf4e25-4e50-483f-9688-078f10b81bb3" />
 <img width="515" height="669" alt="NewsletterExample2" src="https://github.com/user-attachments/assets/d5a3788c-1eb6-4bf8-b4e7-b29757f13f0c" />
 
 ## ACADEMIC PORTFOLIO
