@@ -2,14 +2,15 @@
 I'm Rob, a technical writer who recently graduated with an M.S. in Professional & Technical Writing from Towson University. 
 
 ## PROFESSIONAL PORTFOLIO
-[Read through my resume](https://docs.google.com/document/d/12qdSz7H2plLwtu5nJDBgXyhL4bZEzso6PJIqKN0xFbo/edit?usp=sharing)
+[Read through my resume](https://docs.google.com/document/d/12qdSz7H2plLwtu5nJDBgXyhL4bZEzso6PJIqKN0xFbo/edit?usp=sharing)  
+Experience in technical writing and editing, communication and management between teams/SMEs, API documentation, and more. 
 - [DITA & API DOCUMENTATION COMPARISON REPORT](): I analyzed the Swagger "Pet Store" REST API in two formats, and broke down how each operates.
 - DOCUMENT DESIGN: I’ve designed various professional documents for the Professional Writing Graduate department at Towson University. 
 <img width="500" height="340" alt="DocDesignSample" src="https://github.com/user-attachments/assets/4dbab7ff-8b2c-456b-9487-d7baa68e2a81" />
 
 ## ACADEMIC PORTFOLIO
-[Read through my cirriculum vitae](https://docs.google.com/document/d/1Tdf_2pXf9BJ6mJ6U9IFjx2xkWc_RomtEnfxFiStbszA/edit?usp=sharing)
--I've assisted within various classrooms for teaching college composition, technical writing, and grant writing. Materials linked below include my teaching philosophy, course syllabus, and a mini-lesson sample. 
+[Read through my cirriculum vitae](https://docs.google.com/document/d/1Tdf_2pXf9BJ6mJ6U9IFjx2xkWc_RomtEnfxFiStbszA/edit?usp=sharing)   
+Materials linked below include my teaching philosophy, course syllabus, and a mini-lesson sample. 
 - [INTRO. TO TECHNICAL WRITING](https://docs.google.com/document/d/1gevBqqa8ZxzYr611rm1FH_qCLOaJ9mzMYlsy-y2UawA/edit?usp=sharing): Students learn the concepts of audience analysis and document design in technical writing. 
 - [COLLEGE COMPOSITION](https://docs.google.com/document/d/1uuCVf06BrFCk6CvzY5k27nGAlT1HmSsPjBMowIj_KFM/edit?usp=sharing): Students learn the core academic writing skills, such as research and information structure. 
 
