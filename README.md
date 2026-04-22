@@ -3,20 +3,16 @@ I'm Rob, a technical writer who recently graduated with an M.S. in Professional 
 
 ## PROFESSIONAL PORTFOLIO
 [Read through my resume](https://docs.google.com/document/d/12qdSz7H2plLwtu5nJDBgXyhL4bZEzso6PJIqKN0xFbo/edit?usp=sharing)
-- DITA & API DOCUMENTATION COMPARISON REPORT: I analyzed the "Pet Store" REST API in these two formats, and broke down how each operates.
-
-  [Read here]()
-- DOCUMENT DESIGN: I’ve designed various professional documents for the Professional Writing department at Towson University. (Insert images).
+- [DITA & API DOCUMENTATION COMPARISON REPORT](): I analyzed the "Pet Store" REST API in these two formats, and broke down how each operates.
+- [DIGITAL ARCHIVE METADATA](): 
+- DOCUMENT DESIGN: I’ve designed various professional documents for the Professional Writing Graduate department at Towson University. (insert images). 
 
 ## ACADEMIC PORTFOLIO
 [Read through my cirriculum vitae](https://docs.google.com/document/d/1Tdf_2pXf9BJ6mJ6U9IFjx2xkWc_RomtEnfxFiStbszA/edit?usp=sharing)
-- INTRO. TO TECHNICAL WRITING COURSE: Students learn the core concepts of audience analysis and document design.
-
-  [Read through course materials]()
-- COLLEGE COMPOSITION: Students learn the core academic writing skills through 
-
-  [Read through course materials]()
+- [INTRO. TO TECHNICAL WRITING](): Students learn the concepts of audience analysis and document design in technical writing. Materials include my teaching philosophy, syllabus, and a mini-lesson. 
+- [COLLEGE COMPOSITION]: Students learn the core academic writing skills 
 
 ## CONTACT
 [Email me](mailto:rob.konger@gmail.com)  
-[Connect on LinkedIn](https://www.linkedin.com/in/robin-konger/)
+<img width="50" height="50" alt="linkinicon" src="https://github.com/user-attachments/assets/e1cec0d9-74ee-4637-b011-4cbe8c7e9a52" />[Connect on LinkedIn](https://www.linkedin.com/in/robin-konger/)
+
