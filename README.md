@@ -14,5 +14,5 @@ I'm Rob, a technical writer who recently graduated with an M.S. in Professional 
 
 ## CONTACT
 [Email me](mailto:rob.konger@gmail.com)  
-<img width="50" height="50" alt="linkinicon" src="https://github.com/user-attachments/assets/e1cec0d9-74ee-4637-b011-4cbe8c7e9a52" />[Connect on LinkedIn](https://www.linkedin.com/in/robin-konger/)
+<img width="30" height="30" alt="linkinicon" src="https://github.com/user-attachments/assets/e1cec0d9-74ee-4637-b011-4cbe8c7e9a52" />[Connect on LinkedIn](https://www.linkedin.com/in/robin-konger/)
 
