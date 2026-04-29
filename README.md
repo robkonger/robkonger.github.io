@@ -4,10 +4,10 @@ I'm Rob, a technical writer who recently graduated with an M.S. in Professional 
 ## PROFESSIONAL PORTFOLIO
 [Read through my resume](https://docs.google.com/document/d/12qdSz7H2plLwtu5nJDBgXyhL4bZEzso6PJIqKN0xFbo/edit?usp=sharing)  
 Experience in technical writing and editing, communication and management between teams/SMEs, API documentation, and more. 
-- DITA & API DOCUMENTATION COMPARISON PROJECT: I analyzed the Swagger "Pet Store" REST API in two different formats, to see how the documentation works rhetorically and within content management.
+- DITA & API DOCUMENTATION COMPARISON PROJECT: I compared Swagger's "Pet Store" REST API documentation to DITA, through the lens of discourse analysis and content management. 
   [Read through materials on GitHub. WORK IN PROGRESS!](https://github.com/robkonger/DITA-API-Documentation-Project)
 - DOCUMENT DESIGN: I’ve designed various professional documents for the Professional Writing Graduate department at Towson University. 
-<img width="500" height="340" alt="DocDesignSample" src="https://github.com/user-attachments/assets/4dbab7ff-8b2c-456b-9487-d7baa68e2a81" />
+<img width="500" height="340" alt="Document design samples, from the Towson University's PRWR program's newsletter I designed." src="https://github.com/user-attachments/assets/4dbab7ff-8b2c-456b-9487-d7baa68e2a81"/>
 
 ## ACADEMIC PORTFOLIO
 [Read through my cirriculum vitae](https://docs.google.com/document/d/1Tdf_2pXf9BJ6mJ6U9IFjx2xkWc_RomtEnfxFiStbszA/edit?usp=sharing)   
