@@ -7,6 +7,7 @@ Experience in technical writing and editing, communication and management betwee
 - DITA CONVERSION OF API DOCS: I converted Swagger's "Pet Store" REST API documentation to DITA format. 
   [Read through materials on GitHub.](https://github.com/robkonger/DITA-Conversion-From-API-Documentation)
 - DOCUMENT DESIGN: I’ve designed various professional documents for the Professional Writing Graduate department at Towson University. 
+
 [<img width="500" height="340" alt="Document design samples, from the Towson University's PRWR program's newsletter I designed." src="https://github.com/user-attachments/assets/4dbab7ff-8b2c-456b-9487-d7baa68e2a81"/>](https://www.towson.edu/cla/departments/english/programs/professional-writing-masters/documents/fall-2025-word.pdf)
 
 ## ACADEMIC PORTFOLIO
