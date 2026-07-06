@@ -10,6 +10,8 @@ Experience in technical writing and editing, communication and management betwee
 
 [<img width="500" height="340" alt="Document design samples, from the Towson University's PRWR program's newsletter I designed." src="https://github.com/user-attachments/assets/4dbab7ff-8b2c-456b-9487-d7baa68e2a81"/>](https://www.towson.edu/cla/departments/english/programs/professional-writing-masters/documents/fall-2025-word.pdf)
 
+- CAPITAL GRANT PROPOSAL: Written during my time as a Writing and Community Engagement Specialist at [GIVE](https://www.towson.edu/cla/departments/english/resources/grantwriting-valued-environments.html) (Grantwriting in Valued Environments). [Read through awarded proposal.](https://docs.google.com/document/d/1GFr1FdM5PM3tfWGw2kg7iuN7SQ1wYQkzYjmSYLIgXBg/edit?usp=sharing) 
+
 ## ACADEMIC PORTFOLIO
 [Read through my cirriculum vitae](https://docs.google.com/document/d/1Tdf_2pXf9BJ6mJ6U9IFjx2xkWc_RomtEnfxFiStbszA/edit?usp=sharing)   
 Materials linked below include course syllabus, my teaching philosophy, and a mini-lesson sample. 
